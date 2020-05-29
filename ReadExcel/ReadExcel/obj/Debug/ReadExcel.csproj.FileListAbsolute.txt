@@ -1,0 +1,17 @@
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe.config
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.DataSet.dll
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.dll
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.pdb
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.xml
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\bin\Debug\ExcelDataReader.DataSet.xml
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csprojAssemblyReference.cache
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Form1.resources
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.Properties.Resources.resources
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.GenerateResource.cache
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CopyComplete
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+E:\其他项目\WinformReadExcel\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
